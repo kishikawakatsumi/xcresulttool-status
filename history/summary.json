@@ -58,7 +58,7 @@
     "url": "https://make-check.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/make-check.vercel.app.ico",
     "slug": "make-check-vercel-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -70,6 +70,7 @@
     "timeMonth": 522,
     "timeYear": 559,
     "dailyMinutesDown": {
+      "2023-10-25": 0,
       "2023-08-01": 59,
       "2023-06-13": 100
     }
