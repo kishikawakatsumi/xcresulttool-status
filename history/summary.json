@@ -60,19 +60,19 @@
     "url": "https://make-check.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/make-check.vercel.app.ico",
     "slug": "make-check-vercel-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 442,
-    "timeDay": 175,
-    "timeWeek": 302,
-    "timeMonth": 381,
-    "timeYear": 410,
+    "timeDay": 148,
+    "timeWeek": 280,
+    "timeMonth": 373,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-07-14": 0
+      "2025-07-14": 18
     }
   }
 ]
