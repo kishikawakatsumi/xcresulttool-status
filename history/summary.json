@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 60,
-    "timeWeek": 121,
-    "timeMonth": 197,
+    "timeDay": 69,
+    "timeWeek": 112,
+    "timeMonth": 198,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 30,
-    "timeWeek": 76,
+    "timeDay": 32,
+    "timeWeek": 68,
     "timeMonth": 153,
     "timeYear": 131,
     "dailyMinutesDown": {}
@@ -47,13 +47,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
-    "timeDay": 162,
-    "timeWeek": 218,
+    "timeDay": 65,
+    "timeWeek": 212,
     "timeMonth": 205,
     "timeYear": 148,
-    "dailyMinutesDown": {
-      "2024-07-28": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "make-check.vercel.app",
@@ -67,9 +65,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 436,
-    "timeDay": 1071,
-    "timeWeek": 303,
-    "timeMonth": 370,
+    "timeDay": 181,
+    "timeWeek": 309,
+    "timeMonth": 371,
     "timeYear": 396,
     "dailyMinutesDown": {
       "2025-07-14": 18
