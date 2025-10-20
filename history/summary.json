@@ -4,19 +4,19 @@
     "url": "https://xcresulttool-file.herokuapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/xcresulttool-file.herokuapp.com.ico",
     "slug": "xcresulttool-file-herokuapp-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 157,
-    "timeWeek": 142,
+    "time": 170,
+    "timeDay": 155,
+    "timeWeek": 143,
     "timeMonth": 146,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 23
     }
   },
   {
