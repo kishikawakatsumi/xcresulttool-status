@@ -42,18 +42,19 @@
     "url": "https://xcresulttool-static.netlify.app/images/passed.png",
     "icon": "https://icons.duckduckgo.com/ip3/xcresulttool-static.netlify.app.ico",
     "slug": "xcresulttool-static-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
-    "time": 152,
+    "time": 153,
     "timeDay": 37,
     "timeWeek": 206,
     "timeMonth": 198,
     "timeYear": 160,
     "dailyMinutesDown": {
+      "2025-11-09": 0,
       "2025-10-20": 26
     }
   },
