@@ -1,7 +1,7 @@
 url: https://xcresulttool-file.herokuapp.com/file
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-25T23:47:17.531Z
+status: up
+code: 200
+responseTime: 269
+lastUpdated: 2026-06-26T00:02:05.323Z
 startTime: 2023-05-12T12:05:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
