@@ -4,11 +4,11 @@
     "url": "https://xcresulttool-file.herokuapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/xcresulttool-file.herokuapp.com.ico",
     "slug": "xcresulttool-file-herokuapp-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 391,
     "timeDay": 5754,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2025-10-20": 23,
       "2026-06-26": 2,
-      "2026-06-25": 20
+      "2026-06-25": 20,
+      "2026-07-25": 17
     }
   },
   {
@@ -26,29 +27,31 @@
     "url": "https://xcresulttool-file.herokuapp.com/file",
     "icon": "https://icons.duckduckgo.com/ip3/xcresulttool-file.herokuapp.com.ico",
     "slug": "xcresulttool-file-herokuapp-com-file",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 146,
     "timeDay": 51,
     "timeWeek": 282,
     "timeMonth": 261,
     "timeYear": 151,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-25": 10
+    }
   },
   {
     "name": "xcresulttool-static.netlify.app/",
     "url": "https://xcresulttool-static.netlify.app/images/passed.png",
     "icon": "https://icons.duckduckgo.com/ip3/xcresulttool-static.netlify.app.ico",
     "slug": "xcresulttool-static-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 209,
     "timeDay": 390,
@@ -58,7 +61,8 @@
     "dailyMinutesDown": {
       "2025-10-20": 26,
       "2025-11-09": 24,
-      "2026-05-10": 47
+      "2026-05-10": 47,
+      "2026-07-25": 2
     }
   },
   {
